@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    height: 350vh;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+
+}
+img{
+    object-fit: cover;
+    object-position: center;
+    height: 100vh;
+    width: 100%;
+}
